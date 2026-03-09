@@ -1,0 +1,8 @@
+E:\Programing\StatsNHL\NHL.Api\obj\Debug\net10.0\NHL.Api.csproj.AssemblyReference.cache
+E:\Programing\StatsNHL\NHL.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Programing\StatsNHL\NHL.Api\obj\Debug\net10.0\NHL.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\StatsNHL\NHL.Api\obj\Debug\net10.0\NHL.Api.AssemblyInfoInputs.cache
+E:\Programing\StatsNHL\NHL.Api\obj\Debug\net10.0\NHL.Api.AssemblyInfo.cs
+E:\Programing\StatsNHL\NHL.Api\obj\Debug\net10.0\NHL.Api.csproj.CoreCompileInputs.cache
+E:\Programing\StatsNHL\NHL.Api\obj\Debug\net10.0\NHL.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Programing\StatsNHL\NHL.Api\obj\Debug\net10.0\NHL.Api.MvcApplicationPartsAssemblyInfo.cache

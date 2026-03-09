@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programing\\StatsNHL\\NHL.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programing\\StatsNHL\\NHL.Api\\Services\\playerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\playerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programing\\StatsNHL\\NHL.Api\\Controllers\\playerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\playerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programing\\StatsNHL\\NHL.Api\\Services\\teamService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\teamService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programing\\StatsNHL\\NHL.Api\\Controllers\\leaugeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\leaugeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programing\\StatsNHL\\NHL.Api\\Services\\leagueService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\leagueService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programing\\StatsNHL\\NHL.Api\\Controllers\\teamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\teamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programing\\StatsNHL\\NHL.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programing\\StatsNHL\\NHL.Api\\NHL.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NHL.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programing\\StatsNHL\\NHL.Api\\Models\\Players\\PlayerInfoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Players\\PlayerInfoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programing\\StatsNHL\\NHL.Api\\Models\\Players\\PlayerStatsDto.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Players\\PlayerStatsDto.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programing\\StatsNHL\\NHL.Api\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "leagueService.cs",
+              "DocumentMoniker": "E:\\Programing\\StatsNHL\\NHL.Api\\Services\\leagueService.cs",
+              "RelativeDocumentMoniker": "Services\\leagueService.cs",
+              "ToolTip": "E:\\Programing\\StatsNHL\\NHL.Api\\Services\\leagueService.cs",
+              "RelativeToolTip": "Services\\leagueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T04:35:11.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "leaugeController.cs",
+              "DocumentMoniker": "E:\\Programing\\StatsNHL\\NHL.Api\\Controllers\\leaugeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\leaugeController.cs",
+              "ToolTip": "E:\\Programing\\StatsNHL\\NHL.Api\\Controllers\\leaugeController.cs",
+              "RelativeToolTip": "Controllers\\leaugeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T04:34:08.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "teamService.cs",
+              "DocumentMoniker": "E:\\Programing\\StatsNHL\\NHL.Api\\Services\\teamService.cs",
+              "RelativeDocumentMoniker": "Services\\teamService.cs",
+              "ToolTip": "E:\\Programing\\StatsNHL\\NHL.Api\\Services\\teamService.cs",
+              "RelativeToolTip": "Services\\teamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T04:29:39.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "teamController.cs",
+              "DocumentMoniker": "E:\\Programing\\StatsNHL\\NHL.Api\\Controllers\\teamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\teamController.cs",
+              "ToolTip": "E:\\Programing\\StatsNHL\\NHL.Api\\Controllers\\teamController.cs",
+              "RelativeToolTip": "Controllers\\teamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T04:20:47.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "playerController.cs",
+              "DocumentMoniker": "E:\\Programing\\StatsNHL\\NHL.Api\\Controllers\\playerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\playerController.cs",
+              "ToolTip": "E:\\Programing\\StatsNHL\\NHL.Api\\Controllers\\playerController.cs",
+              "RelativeToolTip": "Controllers\\playerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:31:21.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "playerService.cs",
+              "DocumentMoniker": "E:\\Programing\\StatsNHL\\NHL.Api\\Services\\playerService.cs",
+              "RelativeDocumentMoniker": "Services\\playerService.cs",
+              "ToolTip": "E:\\Programing\\StatsNHL\\NHL.Api\\Services\\playerService.cs",
+              "RelativeToolTip": "Services\\playerService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAE8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:31:00.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NHL.Api.csproj",
+              "DocumentMoniker": "E:\\Programing\\StatsNHL\\NHL.Api\\NHL.Api.csproj",
+              "RelativeDocumentMoniker": "NHL.Api.csproj",
+              "ToolTip": "E:\\Programing\\StatsNHL\\NHL.Api\\NHL.Api.csproj",
+              "RelativeToolTip": "NHL.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-24T21:46:30.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programing\\StatsNHL\\NHL.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Programing\\StatsNHL\\NHL.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T21:46:27.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerStatsDto.cs",
+              "DocumentMoniker": "E:\\Programing\\StatsNHL\\NHL.Api\\Models\\Players\\PlayerStatsDto.cs",
+              "RelativeDocumentMoniker": "Models\\Players\\PlayerStatsDto.cs",
+              "ToolTip": "E:\\Programing\\StatsNHL\\NHL.Api\\Models\\Players\\PlayerStatsDto.cs",
+              "RelativeToolTip": "Models\\Players\\PlayerStatsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:46:16.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerInfoDto.cs",
+              "DocumentMoniker": "E:\\Programing\\StatsNHL\\NHL.Api\\Models\\Players\\PlayerInfoDto.cs",
+              "RelativeDocumentMoniker": "Models\\Players\\PlayerInfoDto.cs",
+              "ToolTip": "E:\\Programing\\StatsNHL\\NHL.Api\\Models\\Players\\PlayerInfoDto.cs",
+              "RelativeToolTip": "Models\\Players\\PlayerInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:17:00.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Programing\\StatsNHL\\NHL.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\Programing\\StatsNHL\\NHL.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T04:09:35.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
